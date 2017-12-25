@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\TechEagle\TechEagelv1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\TechEagle\TechEagelv1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_024f76779111f1bc0d6b0581e6a5cbe1adc021b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\TechEagle\TechEagelv1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cde69a2be598d31dc44fee917da8f908d0491dc5">
+        <dex dex="G:\TechEagle\TechEagelv1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9efbb2a4667f9da27534dfd2b93e74bb7c0ce0bf\classes.dex" />
+    </item>
+
+</items>
